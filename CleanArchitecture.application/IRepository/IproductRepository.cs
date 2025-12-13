@@ -10,9 +10,9 @@ namespace CleanArchitecture.application.IRepository
 {
     public interface IproductRepository
     {
-        Task<Product> GetListProdducts();
+        //Task<Product> GetListProdducts();
 
-        Task<ProductDto> GetProduct(int productId);
+        Task<Product> GetProduct(int productId);
 
         Task<Product> AddProduct(Product p);
 

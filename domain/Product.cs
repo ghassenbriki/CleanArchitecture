@@ -20,5 +20,12 @@ namespace CleanArchitecture.domain
 
         public Category? Category { get; set; }
         public string? CategoryName { get; set; }
+
+        public List<Order> OrdersList { get; set; }
+
+
+
+
+
     }
 }
