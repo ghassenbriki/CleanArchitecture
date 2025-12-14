@@ -1,0 +1,16 @@
+C:\Users\Hp\source\repos\CleanArchitecture\CleanArchitecture.application\bin\Debug\net8.0\CleanArchitecture.application.deps.json
+C:\Users\Hp\source\repos\CleanArchitecture\CleanArchitecture.application\bin\Debug\net8.0\CleanArchitecture.application.dll
+C:\Users\Hp\source\repos\CleanArchitecture\CleanArchitecture.application\bin\Debug\net8.0\CleanArchitecture.application.pdb
+C:\Users\Hp\source\repos\CleanArchitecture\CleanArchitecture.application\bin\Debug\net8.0\CleanArchitecture.domain.dll
+C:\Users\Hp\source\repos\CleanArchitecture\CleanArchitecture.application\bin\Debug\net8.0\CleanArchitecture.domain.pdb
+C:\Users\Hp\source\repos\CleanArchitecture\CleanArchitecture.application\obj\Debug\net8.0\CleanArchitecture.application.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CleanArchitecture\CleanArchitecture.application\obj\Debug\net8.0\CleanArchitecture.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\CleanArchitecture\CleanArchitecture.application\obj\Debug\net8.0\CleanArchitecture.application.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\CleanArchitecture\CleanArchitecture.application\obj\Debug\net8.0\CleanArchitecture.application.AssemblyInfo.cs
+C:\Users\Hp\source\repos\CleanArchitecture\CleanArchitecture.application\obj\Debug\net8.0\CleanArchitecture.application.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CleanArchitecture\CleanArchitecture.application\obj\Debug\net8.0\CleanArchitecture.application.sourcelink.json
+C:\Users\Hp\source\repos\CleanArchitecture\CleanArchitecture.application\obj\Debug\net8.0\CleanArc.F65214B2.Up2Date
+C:\Users\Hp\source\repos\CleanArchitecture\CleanArchitecture.application\obj\Debug\net8.0\CleanArchitecture.application.dll
+C:\Users\Hp\source\repos\CleanArchitecture\CleanArchitecture.application\obj\Debug\net8.0\refint\CleanArchitecture.application.dll
+C:\Users\Hp\source\repos\CleanArchitecture\CleanArchitecture.application\obj\Debug\net8.0\CleanArchitecture.application.pdb
+C:\Users\Hp\source\repos\CleanArchitecture\CleanArchitecture.application\obj\Debug\net8.0\ref\CleanArchitecture.application.dll

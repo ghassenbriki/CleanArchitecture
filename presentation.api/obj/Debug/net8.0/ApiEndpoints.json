@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "presentation.api.Controllers.ProductController",
+    "Method": "addProduct",
+    "RelativePath": "api/Product/addproduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "CleanArchitecture.application.DTO.ProductDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CleanArchitecture.application.Responses.CommandResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

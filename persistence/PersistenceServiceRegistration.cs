@@ -14,7 +14,7 @@ namespace persistence
     public static class PersistenceServiceRegistration
     {
 
-        public static IServiceCollection ConfigureApplicationService (this IServiceCollection services , IConfiguration configuration)
+        public static IServiceCollection ConfigurePersistanceService (this IServiceCollection services , IConfiguration configuration)
         {
             services.AddDbContext<Database>(options => options.UseSqlServer(configuration.GetConnectionString("ConnDb")));
             services.AddScoped<IproductRepository, ProductRepository>();
