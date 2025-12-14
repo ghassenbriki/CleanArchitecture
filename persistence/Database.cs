@@ -10,7 +10,7 @@ namespace persistence
 {
     public class Database : DbContext
     {
-        public Database(DbContextOptions<Database> options) : base() 
+        public Database(DbContextOptions<Database> options) : base(options) 
         {
 
         }
